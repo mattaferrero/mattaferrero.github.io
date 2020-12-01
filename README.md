@@ -1,8 +1,6 @@
-## Reflection test2
+## About Me
 
-You can use the [editor on GitHub](https://github.com/mattaferrero/mattaferrero.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello world! I'm currently studying Information Technology at Broward College with a focus in Software and Systems Development, with a future goal of transitioning to Aerospace Engineering. In my spare time I absolutely love working on my electronics and programming projects, most of which I cover here on this website! Right now the largest project which is taking up most of my time is a simple bootloader and kernel for a 32-bit x86 system (current codename MAA-OS).
 
 ### Markdown
 
